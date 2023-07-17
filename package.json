@@ -1,0 +1,65 @@
+{
+  "name": "ClientApp",
+  "version": "4.2.0",
+  "private": true,
+  "dependencies": {
+    "@ag-grid-enterprise/all-modules": "^27.1.*",
+    "@date-io/moment": "^2.14.*",
+    "@emotion/react": "^11.9.*",
+    "@emotion/styled": "^11.8.*",
+    "@microsoft/signalr": "^6.0.*",
+    "@mui/icons-material": "^5.8.*",
+    "@mui/lab": "^5.0.0-alpha.84",
+    "@mui/material": "^5.8.*",
+    "@mui/styles": "^5.8.*",
+    "@mui/x-date-pickers": "^6.0.0",
+    "@reduxjs/toolkit": "^1.8.*",
+    "ag-grid-community": "^27.1.*",
+    "ag-grid-enterprise": "^27.1.*",
+    "ag-grid-react": "^27.1.*",
+    "buffer": "^6.0.*",
+    "date-fns": "^2.28.*",
+    "draft-js": "^0.11.*",
+    "draft-js-export-html": "^1.4.*",
+    "draft-js-utils": "^1.4.*",
+    "jwt-decode": "^3.1.*",
+    "moment": "^2.29.*",
+    "moment-timezone": "^0.5.*",
+    "notistack": "^2.0.*",
+    "react": "^18.1.*",
+    "react-currency-format": "^1.1.*",
+    "react-dom": "^18.1.*",
+    "react-draft-wysiwyg": "^1.14.*",
+    "react-hook-form": "^7.30.*",
+    "react-redux": "^8.0.*",
+    "react-router-dom": "^6.3.*",
+    "react-scripts": "^5.0.*",
+    "react-tabs": "^4.2.*",
+    "redux": "^4.1.*",
+    "styled-components": "^5.3.*"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.20"
+  }
+}
